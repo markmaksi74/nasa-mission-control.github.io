@@ -5,3 +5,5 @@ cd nasa-mission-control.github.io
 npm install
 
 npm run server
+
+Launch your first mission to a NASA confirmed habitable exoplanet @ http://localhost:8000/ 
